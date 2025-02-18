@@ -1,4 +1,4 @@
-# FocusClock - Pomodoro Timer ⏳🎵
+# FocusedTimer - Pomodoro Timer ⏳🎵
 
 FocusClock is a simple command-line Pomodoro timer that helps you stay focused and productive. It plays a focus song during work sessions and a break song during rest periods.
 
